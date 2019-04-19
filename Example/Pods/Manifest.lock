@@ -1,0 +1,18 @@
+PODS:
+  - UiltKit (0.0.1):
+    - UiltKit/Validate (= 0.0.1)
+  - UiltKit/Validate (0.0.1)
+
+DEPENDENCIES:
+  - UiltKit (from `../`)
+
+EXTERNAL SOURCES:
+  UiltKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UiltKit: 32096e887d479f3de7d3fda06cce1b1934b6f1af
+
+PODFILE CHECKSUM: d87d385fcbdc7cdd280064609debe4a493ffd294
+
+COCOAPODS: 1.5.3
